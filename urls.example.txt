@@ -1,2 +1,0 @@
-# 每行一个下载地址，空行和以 # 开头的行会被忽略
-# https://example.com/sample.zip
